@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(255, 255, 255);
+  
+}
+
+h1 {
+  color: #0e0e0e;
+  text-align: left;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-size: 36px;
+line-height: 1.08349;
+letter-spacing: -.003em;
+} 
+
+.ex{
+  color:#0e0e0e;
+font-size: 17px;
+line-height: 34px;
+font-weight: 400;
+letter-spacing: 0.012em;
+font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+margin-top: 32px;
+margin-bottom: 32px;
+}
+.menu{
+  text-align: left;
+  
+}
+.footer-copyright {
+  position: fixed;
+  color: #6e6e73;
+  left=0;
+  bottom: 0;
+  width: 100%;
+  font-size: 12px;
+line-height: 1.33337;
+font-weight: 400;
+letter-spacing: -.01em;
+font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+a:link {
+  color: #0e0e0e;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#0e0e0e;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #0e0e0e;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
